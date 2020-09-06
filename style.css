@@ -1,0 +1,103 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  body {
+    background-color: #000000 !important;
+  }
+  
+  #hello {
+    color: #fdb434;
+  }
+  
+  #im {
+    color: white;
+  }
+  #names {
+    color: #fdb434;
+  }
+  #works {
+    color: white;
+  }
+  
+  #intro {
+    float: left;
+    margin-top: 70px;
+    margin-left: 210px;
+  }
+  /* #imgs {
+      overflow: hidden;
+      border-radius: 50px;
+      width: 661px;
+      height: 250px;   
+    } */
+  #about {
+    margin-top: 20px;
+  }
+  #lda{
+  width: 60%;
+  padding-left: 35px  ;
+  }
+  
+  #biwiwiPro {
+    width: 240px;
+    height: 180px;
+  }
+  .project {
+      padding-left: 30%;
+      padding-top: 170px;
+  }
+  #project {
+    border-spacing: 50px;
+  }
+  
+  .back {
+    width: 600px;
+    height: 150px;
+  }
+  
+  img{
+      border-radius: 30px;
+  }
+  img.back {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 50px;
+  }
+  
+  h4 {
+      padding-left: 40px;
+      text-transform: uppercase;
+      color: #fdb434;
+  }
+  
+  div#aboutUlavalProject {
+      color: white;
+  }
+  
+  div#aboutBiwiwiProject {
+      color: white;
+  }
+  
